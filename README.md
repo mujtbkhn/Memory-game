@@ -1,8 +1,8 @@
 <h1> Memory Game</h1>
-#A retro grid-based game in vanilla JavaScript, HTML and CSS
+<h3>A retro grid-based game in vanilla JavaScript, HTML and CSS</h3>
 
 
-#What inbuilt functions are we going to focus on?
+**What inbuilt functions are we going to focus on?**
 * for loops
 * addEventListener
 * setAttribute
@@ -11,7 +11,7 @@
 * document.querySelector
 * createElement
 
-#Rules of Memory Game
+**Rules of Memory Game**
 * You will start by flipping over one card
 * If the next card you flip matches, a pop up alert notifies you and you get +1 to your score
 * These cards then disspear
